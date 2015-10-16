@@ -1,4 +1,5 @@
-# recipe-title <title> tag, but need to eliminate any thing after the first '|' seperator.
+# recipe-title
+<title> tag, but need to eliminate any thing after the first '|' seperator.
 
 # Number of people served, cooking time and difficulty, and nutritions
 Extract regex pattern
